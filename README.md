@@ -2,15 +2,59 @@
 
 # Parsa Abbasian
 
+**Computer Engineering student · Full-stack developer · AI researcher**
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-parsaabbasian.com-6366f1?style=flat&logo=google-chrome&logoColor=white)](https://parsaabbasian.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsaabbasian)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/parsaabbasian)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:parsa.abbasian.06@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=parsaabbasian&icon=0&color=12)](https://visitcount.itsvg.in)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/parsaabbasian)
 
 </div>
 
 ---
 
+Personal portfolio and engineering journal built with **Next.js 16**, **React 19**, and **Tailwind CSS 4**. The site showcases projects, research, writing, learning progress, certificates, and a contact form — all in a responsive, dark-mode-ready layout.
+
+**Live:** [parsaabbasian.com](https://parsaabbasian.com)
+
+---
+
+## About
+
+I'm **Parsa Abbasian**, a Computer Engineering student at **York University** (Lassonde School of Engineering) in Toronto. I work across full-stack development, AI integration, and research — from building real-time campus platforms to evaluating LLM coding agents in research labs.
+
+This repository is the source for my personal website, migrated from a legacy Vite/React setup to the Next.js App Router.
+
+---
+
+## Features
+
+| Section | Description |
+| --- | --- |
+| **Home** | Hero, experience, education, skills, volunteering, resume, and contact |
+| **Current Projects** | Active builds with live demos and tech stacks |
+| **Blog** | Technical writing and hackathon reflections |
+| **Learning** | Structured learning tracks with daily progress and insights |
+| **Certificates** | Professional certifications and credentials |
+| **Thoughts** | Short essays on life and growth |
+| **Contact** | Web3Forms-powered message form + social links |
+
+**UX highlights:** system-aware dark mode, scroll-reveal animations (Framer Motion), sticky sidebar, auto-hiding navbar, and Open Graph metadata for sharing.
+
+---
+
 ## Tech Stack
+
+### This project
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
+### Broader toolkit
 
 **Languages**
 
@@ -62,6 +106,71 @@
 
 ---
 
+## Project Structure
+
+```
+├── src/
+│   ├── app/                  # Next.js App Router pages
+│   │   ├── page.tsx          # Home
+│   │   ├── blogs/            # Blog listing & articles
+│   │   ├── learning/         # Learning tracks & daily logs
+│   │   ├── current-projects/ # Active project showcase
+│   │   ├── certificates/     # Certifications
+│   │   ├── thoughts/         # Personal essays
+│   │   └── projects/         # Individual project pages
+│   ├── components/           # Reusable UI (cards, navbar, theme, etc.)
+│   └── lib/
+│       └── data.ts           # Central content config (experience, projects, blogs, …)
+├── public/
+│   └── assets/               # Icons, logos, resume PDF
+└── archive-pages/            # Legacy Vite/HTML content (migration reference)
+```
+
+Most site content lives in `src/lib/data.ts`. Update that file to change experience entries, projects, skills, blogs, learning tracks, and more without touching layout code.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) 20+
+- npm, yarn, pnpm, or bun
+
+### Install & run
+
+```bash
+git clone https://github.com/parsaabbasian/PersonalWebsite.git
+cd PersonalWebsite
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view the site locally.
+
+### Scripts
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Start development server |
+| `npm run build` | Production build |
+| `npm run start` | Serve production build |
+| `npm run lint` | Run ESLint |
+
+---
+
+## Deployment
+
+The site is deployed on [Vercel](https://vercel.com) and served at [parsaabbasian.com](https://parsaabbasian.com).
+
+```bash
+npm run build
+```
+
+Push to your connected Git branch and Vercel will build and deploy automatically. See the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for details.
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -71,5 +180,23 @@
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=parsaabbasian&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parsaabbasian&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## Contact
+
+- **Email:** [parsa.abbasian.06@gmail.com](mailto:parsa.abbasian.06@gmail.com)
+- **University:** [parsa06@my.yorku.ca](mailto:parsa06@my.yorku.ca)
+- **LinkedIn:** [linkedin.com/in/parsaabbasian](https://linkedin.com/in/parsaabbasian)
+- **GitHub:** [github.com/parsaabbasian](https://github.com/parsaabbasian)
+- **Kaggle:** [kaggle.com/parsaabbasian](https://www.kaggle.com/parsaabbasian)
+
+---
+
+<div align="center">
+
+Built and maintained by **Parsa Abbasian**
 
 </div>
