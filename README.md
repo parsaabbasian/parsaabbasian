@@ -9,51 +9,37 @@ Building software, conducting AI research, and sharing the journey.
 </p>
 
 <p align="center">
-<a href="https://parsaabbasian.com">Portfolio</a> •
-<a href="https://linkedin.com/in/parsaabbasian">LinkedIn</a> •
-<a href="mailto:parsa.abbasian.06@gmail.com">Email</a> •
-<a href="https://kaggle.com/parsaabbasian">Kaggle</a>
+<a href="https://parsaabbasian.com">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/parsaabbasian">💼 LinkedIn</a> •
+<a href="mailto:parsa.abbasian.06@gmail.com">📧 Email</a> •
+<a href="https://kaggle.com/parsaabbasian">📊 Kaggle</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Engineering student at **York University** (Lassonde School of Engineering)
-
-📍 Toronto, Canada
-
-🔬 Undergraduate researcher working on **LLM evaluation, coding agents, and AI systems**
-
-💻 Full-stack developer building AI-powered web applications
-
-🌐 Operations Lead at **Google Developer Groups on Campus York University**
-
-🏆 First Class Standing with Distinction
-
-🏅 Dean's List
-
-🎖️ York International Scholarship of Distinction
-
-🥇 Bethune Prize
-
-💡 Passionate about software engineering, AI, developer tools, and building products people use.
+- 🎓 Computer Engineering student at York University
+- 🔬 Undergraduate AI researcher at EXINES Lab
+- 💻 Full-stack developer building AI-powered applications
+- 🌐 Operations Lead at GDG on Campus York University
+- 🏆 First Class Standing with Distinction & Dean's List
+- 🚀 Passionate about AI, software engineering, and developer tools
 
 ---
 
 ## 🚀 Currently Working On
 
-🔬 SWE-bench evaluation pipelines and LLM coding agents at EXINES Lab
-
-🛰️ Machine learning for satellite imagery and extreme weather prediction at Space Geodesy Lab
-
-💎 AI video generation platform at Diamond AI using Gemini Veo and ElevenLabs
-
-🌍 Building student communities through GDG on Campus York University
+| Area | Project |
+|------|---------|
+| 🔬 Research | SWE-bench evaluation pipelines & LLM coding agents at EXINES Lab |
+| 🛰️ AI | Machine learning for satellite imagery & extreme weather prediction |
+| 💎 Engineering | AI video generation platform using Gemini Veo & ElevenLabs |
+| 🌐 Community | Growing GDG on Campus York University |
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -76,51 +62,40 @@ Building software, conducting AI research, and sharing the journey.
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,render,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,render,figma" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| **UniSpot** | Real-time student event discovery with GPS verification | React • Go • PostgreSQL • Mapbox |
-| **Undercut** | AI platform for finding undervalued vehicles | Next.js • FastAPI • Go • Gemini |
-| **LassondeHub** | Engineering resources, formulas and notes | React • Supabase |
-| **AlgoDrift** | Interactive algorithm visualizer without frameworks | HTML • CSS • JavaScript |
-| **HawkEye** | Object detection web application built during a 48-hour hackathon | Python • OpenCV |
-| **MBH & Co.** | Premium business growth platform | React 19 • TypeScript • Wix Headless |
+| Project | Description |
+|---------|-------------|
+| **UniSpot** | Real-time event discovery platform with GPS verification |
+| **Undercut** | AI platform for finding undervalued cars in the GTA |
+| **LassondeHub** | Engineering notes, formulas, and community resources |
+| **AlgoDrift** | Interactive algorithms and data structures visualizer |
+| **HawkEye** | Object detection web app built during a 48-hour hackathon |
+| **MBH & Co.** | Premium business growth platform |
 
-➡️ More projects:
-**https://parsaabbasian.com**
+➡️ **More projects:** https://parsaabbasian.com
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced Data Structures & Algorithms
-- Go, Rust and Modern C++
+- Go, Rust, and Modern C++
 - Machine Learning → Deep Learning → MLOps
 - Cloud AI Infrastructure
 - Reading and reproducing AI research papers
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Streak
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parsaabbasian&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=parsaabbasian&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsaabbasian&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parsaabbasian&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -133,7 +108,7 @@ Building software, conducting AI research, and sharing the journey.
 
 📧 Email: parsa.abbasian.06@gmail.com
 
-🎓 University: parsa06@my.yorku.ca
+🎓 York University: parsa06@my.yorku.ca
 
 📊 Kaggle: https://kaggle.com/parsaabbasian
 
@@ -141,4 +116,6 @@ Building software, conducting AI research, and sharing the journey.
 
 ---
 
-> *Building software, advancing AI research, and documenting the process one project at a time.*
+<p align="center">
+<i>"Building software, advancing AI research, and documenting the process."</i>
+</p>
