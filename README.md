@@ -5,7 +5,7 @@ Computer Engineering Student • Full-Stack Developer • AI Researcher
 </p>
 
 <p align="center">
-Building software, conducting AI research, and sharing the journey.
+Building AI products, conducting research, and sharing the journey.
 </p>
 
 <p align="center">
@@ -19,66 +19,80 @@ Building software, conducting AI research, and sharing the journey.
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student at York University
-- 🔬 Undergraduate AI researcher at EXINES Lab
-- 💻 Full-stack developer building AI-powered applications
-- 🌐 Operations Lead at GDG on Campus York University
-- 🏆 First Class Standing with Distinction & Dean's List
-- 🚀 Passionate about AI, software engineering, and developer tools
+- 🎓 Computer Engineering student at **York University**
+- 🔬 Undergraduate AI Researcher at **EXINES Lab**
+- 💻 Full-stack developer building AI-powered products
+- 🌐 Operations Lead at **GDG on Campus York University**
+- 🏆 First Class Standing with Distinction • Dean's List
+- 🚀 Interested in AI, software engineering, and developer tools
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 What I'm Working On
 
-| Area | Project |
-|------|---------|
-| 🔬 Research | SWE-bench evaluation pipelines & LLM coding agents at EXINES Lab |
-| 🛰️ AI | Machine learning for satellite imagery & extreme weather prediction |
+| Area | Focus |
+|------|-------|
+| 🔬 Research | SWE-bench evaluation pipelines & LLM coding agents |
+| 🛰️ AI | Satellite imagery & machine learning for extreme weather |
 | 💎 Engineering | AI video generation platform using Gemini Veo & ElevenLabs |
 | 🌐 Community | Growing GDG on Campus York University |
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Featured Projects
 
-### Languages
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **UniSpot** | Real-time event discovery platform with GPS verification | React • Go • PostgreSQL • Mapbox |
+| **Undercut** | AI platform for finding undervalued cars | Next.js • FastAPI • Go • Gemini |
+| **LassondeHub** | Engineering notes, formulas, and resources | React • Supabase |
+| **AlgoDrift** | Interactive algorithms & data structures visualizer | HTML • CSS • JavaScript |
+| **HawkEye** | Object detection web app built in a 48-hour hackathon | Python • OpenCV |
+| **MBH & Co.** | Premium business growth platform | React 19 • TypeScript • Wix Headless |
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,java,bash" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,vue" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,postgres,supabase,docker" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,render,figma" />
-</p>
+➡️ **More projects:** https://parsaabbasian.com
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description |
-|---------|-------------|
-| **UniSpot** | Real-time event discovery platform with GPS verification |
-| **Undercut** | AI platform for finding undervalued cars in the GTA |
-| **LassondeHub** | Engineering notes, formulas, and community resources |
-| **AlgoDrift** | Interactive algorithms and data structures visualizer |
-| **HawkEye** | Object detection web app built during a 48-hour hackathon |
-| **MBH & Co.** | Premium business growth platform |
+### 💻 Languages
 
-➡️ **More projects:** https://parsaabbasian.com
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,cpp,java,js,matlab,bash,html,css,latex" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
+</p>
+
+**Technologies:** YOLOv8 • Gemini API • SWE-bench • GNSS Data Processing
+
+### ⚙️ Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,fastapi,flask,supabase" />
+</p>
+
+**Technologies:** PostGIS • WebSockets
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,vue,vite" />
+</p>
+
+**Technologies:** Framer Motion • Wix Headless SDK
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,arduino,figma" />
+</p>
+
+**Platforms:** Render
 
 ---
 
@@ -86,7 +100,7 @@ Building software, conducting AI research, and sharing the journey.
 
 - Advanced Data Structures & Algorithms
 - Go, Rust, and Modern C++
-- Machine Learning → Deep Learning → MLOps
+- Deep Learning & MLOps
 - Cloud AI Infrastructure
 - Reading and reproducing AI research papers
 
@@ -100,19 +114,19 @@ Building software, conducting AI research, and sharing the journey.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
-🌐 Portfolio: https://parsaabbasian.com
+🌐 **Portfolio:** https://parsaabbasian.com
 
-💼 LinkedIn: https://linkedin.com/in/parsaabbasian
+💼 **LinkedIn:** https://linkedin.com/in/parsaabbasian
 
-📧 Email: parsa.abbasian.06@gmail.com
+📧 **Personal:** parsa.abbasian.06@gmail.com
 
-🎓 York University: parsa06@my.yorku.ca
+🎓 **York University:** parsa06@my.yorku.ca
 
-📊 Kaggle: https://kaggle.com/parsaabbasian
+📊 **Kaggle:** https://kaggle.com/parsaabbasian
 
-🐙 GitHub: https://github.com/parsaabbasian
+🐙 **GitHub:** https://github.com/parsaabbasian
 
 ---
 
