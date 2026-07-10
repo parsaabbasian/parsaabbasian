@@ -1,160 +1,188 @@
 <div align="center">
 
-# Hi, I'm Parsa Abbasian 👋
+<img src="./assets/banner.svg" alt="Parsa Abbasian banner" width="100%">
 
-### Computer Engineering Student • Full-Stack Developer • AI Researcher
+<br>
 
-Building AI products, conducting research, and sharing the journey.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-parsaabbasian.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parsaabbasian.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parsa_Abbasian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsaabbasian)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsa.abbasian.06@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-parsaabbasian-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/parsaabbasian)
+<a href="https://parsaabbasian.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio">
+</a>
+<a href="https://linkedin.com/in/parsaabbasian">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:parsa.abbasian.06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://kaggle.com/parsaabbasian">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+</a>
 
 </div>
 
+## About
+
+I am a Computer Engineering student at York University, an undergraduate AI researcher at EXINES Lab, and a full-stack developer focused on AI-powered products.
+
+My work spans LLM evaluation, coding agents, satellite imagery, real-time systems, and developer tools. I also serve as Operations Lead at GDG on Campus York University.
+
+## Current Focus
+
 <table>
 <tr>
-<td width="49%" valign="top">
+<td width="50%" valign="top">
 
-<pre>                          ||+|||.....,:::::;:
-                      ;;;::              .:\=++==
-                    ....                     ..,,,,
-                   ,.                          .,,,,
-                  ,                             ,;+=+
-                 ,.                              ,::::
-                 ..         .,:;+=====+;:,        ..,,
-                 ..     .,+=xxxxXXXXXX#XXXx+:     ...,
-                 +|    :=xXX###############Xx+.   ||||
-                 .    :xX###############@@###X:   ..,,
-                 .   .+xXX######@@@@#########X:    .,.
-                ++/ |====xxxX#@@@@@@@@@###XXxXx;  ;+++
-               .||  |\\|.../|.;=X@@#x+,.||||||;=| ,,,,,
-               .|=/|\|+xxx====// ||| |+==xXx=+|/ .,,:..,
-               :/x=/#/X+|/|||+=+|x#-|=++/|||+Xx|#x|:;|;/
-               ,,,||#|##XXXXx==\|X#X#+xxxXX##@##||:::::
-                  .///x####XXx\|XX##x#|X###@@@\\\,....
-                    |Xx|||||/===X###Xxxxxx||||#-\,,
-                     X#######xxX#@@@#XX#@@@@@@X\,,
-                     =X##@#Xx=+=x##XxxX##@@@#X;..
-                       X#X+;+=++==++;+++=x##X=\|
-                      .=X==+++==xxxxxx====XX=, ....
-                       .+xX#XXXXxXXXX#####X=, ..........
-             |||\|   \\|;;+xX##########Xx+;||||||||||||||||
-         ...        |,/|X=.,+xX##X###x+;,|=X--/;:. ...|\...,::,
-     .,,,,,         |:;x##x/ .:=XxxX+,  |x@#|#;;;/    ||,,::;;:::::
- |||;:;;:,           +++x@@#x;,.|.|||.//@@@#\;++++/      \,\\:::,,,,,,
-=;,;;,:;:.          .;;++=#@@##X#XXX#@@@@@#/|+;;++\        :,;,::,..,...
-;++,:+:,;           .:+;;+;|X@@@#@@@@@#x=+:+=;;;;:         ,:::::\|||||#
-::++::;,\           ,:;;::;+::+=xxXXx;::;+++:;;,::/        ,::,;:;;;|:.|
-:::;;-:;           ::;:+=;,,;;;;;;++;;+==++;;:.;;;/        \:,;:;::+===\
-:::;;:::          |;;+;;+==:,:;+;++++++++;:;,,+;;++        :,;::,:+;;+=x
-:-:;;;/\          ;+;++;++=x+:,,:;;;;;;;::;::++:+++/       :;;:,|;::::;+
-;;-:;+:\         \==++=++++=xx+;:,:::;;:::;+=+;;+++/       :;:,,;::::::+
-;+/-;+;          |==++=+==++=xxx+;:::::::;+==+;;+==/       |;:,;::::,,+;
-;:;-;++         |xxx=++========xx=++;;;;;+xx+;;+===+       |;,:;:::,:::;
-:;;;++;         |xxxx=+=========xx=======xx=+;;=x===:      |+|;:,,,,,:::
-;::;;::  |#    |xxx==x=+========xxxx====xxx+;;+=x==x=;      ||\,,,,:::::</pre>
+### Research
+
+- SWE-bench evaluation pipelines
+- LLM coding agents
+- AI reliability and benchmarking
+- Reproducing research papers
 
 </td>
-<td width="51%" valign="top">
+<td width="50%" valign="top">
 
-<h2>👨‍💻 About Me</h2>
+### Engineering
 
-<p>🎓 Computer Engineering student at York University</p>
-<p>🔬 Undergraduate AI Researcher at EXINES Lab</p>
-<p>💻 Full-stack developer building AI-powered products</p>
-<p>🌐 Operations Lead at GDG on Campus York University</p>
-<p>🏆 First Class Standing with Distinction • Dean's List</p>
-<p>🚀 Interested in AI, software engineering, and developer tools</p>
+- AI video generation workflows
+- Real-time web platforms
+- Geospatial applications
+- Backend systems in Go and Python
 
 </td>
 </tr>
 </table>
 
-## 🚀 What I'm Working On
+## Selected Projects
 
-| Area | Focus |
-|---|---|
-| 🔬 Research | SWE-bench evaluation pipelines and LLM coding agents |
-| 🛰️ AI | Satellite imagery and machine learning for extreme weather |
-| 💎 Engineering | AI video generation platform using Gemini Veo and ElevenLabs |
-| 🌐 Community | Growing GDG on Campus York University |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📌 Featured Projects
+### UniSpot
 
-| Project | Description | Stack |
-|---|---|---|
-| [UniSpot](https://github.com/parsaabbasian) | Real-time event discovery platform with GPS verification | React • Go • PostgreSQL • Mapbox |
-| [Undercut](https://github.com/parsaabbasian) | AI platform for finding undervalued cars | Next.js • FastAPI • Go • Gemini |
-| [LassondeHub](https://github.com/parsaabbasian) | Engineering notes, formulas, and resources | React • Supabase |
-| [AlgoDrift](https://github.com/parsaabbasian) | Interactive algorithms and data structures visualizer | HTML • CSS • JavaScript |
-| [HawkEye](https://github.com/parsaabbasian) | Object detection web app built in a 48-hour hackathon | Python • OpenCV |
-| [MBH & Co.](https://github.com/parsaabbasian) | Premium business growth platform | React 19 • TypeScript • Wix Headless |
+Real-time event discovery with GPS verification.
 
-➡️ More projects: [parsaabbasian.com](https://parsaabbasian.com)
+React • Go • PostgreSQL • Mapbox
 
-## 🛠️ Tech Stack
+</td>
+<td width="50%" valign="top">
 
-### 💻 Languages
+### Undercut
+
+AI platform for finding undervalued cars.
+
+Next.js • FastAPI • Go • Gemini
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### LassondeHub
+
+Engineering notes, formulas, and student resources.
+
+React • Supabase
+
+</td>
+<td width="50%" valign="top">
+
+### AlgoDrift
+
+Interactive algorithms and data structures visualizer.
+
+HTML • CSS • JavaScript
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### HawkEye
+
+Object detection web app built during a 48-hour hackathon.
+
+Python • OpenCV
+
+</td>
+<td width="50%" valign="top">
+
+### MBH & Co.
+
+Business growth platform with a modern web stack.
+
+React 19 • TypeScript • Wix Headless
+
+</td>
+</tr>
+</table>
+
+More work is available at [parsaabbasian.com](https://parsaabbasian.com).
+
+## Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,cpp,rust,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,cpp,rust,html,css" alt="Languages">
 </p>
 
-### 🤖 AI and Machine Learning
+### AI and Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and machine learning tools" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,supabase" alt="AI and data tools">
 </p>
 
-Technologies: YOLOv8 • Gemini API • SWE-bench • GNSS Data Processing
+YOLOv8 • Gemini API • SWE-bench • GNSS Data Processing • PostGIS
 
-### ⚙️ Backend and Data
+### Web and Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,docker" alt="Backend and data tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,docker" alt="Web and backend tools">
 </p>
 
-Technologies: PostGIS • WebSockets
+Framer Motion • Mapbox • WebSockets • Wix Headless SDK
 
-### 🎨 Frontend
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" alt="Development tools">
 </p>
 
-Technologies: Framer Motion • Mapbox • Wix Headless SDK
+Render • GitHub Actions
 
-### 🛠️ Tools and Platforms
+## Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" alt="Tools and platforms" />
-</p>
+- Advanced data structures and algorithms
+- Go, Rust, and modern C++
+- Deep learning and MLOps
+- Cloud AI infrastructure
+- Research replication and evaluation
 
-Platforms: Render
-
-## 📚 Currently Learning
-
-- Advanced Data Structures and Algorithms
-- Go, Rust, and Modern C++
-- Deep Learning and MLOps
-- Cloud AI Infrastructure
-- Reading and reproducing AI research papers
-
-## 📈 GitHub Streak
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=parsaabbasian&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=parsaabbasian&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=parsaabbasian&theme=transparent&hide_border=true" height="165" alt="GitHub streak">
 
 </div>
 
-## 🤝 Connect
+## Recognition
 
-- 🌐 Portfolio: [parsaabbasian.com](https://parsaabbasian.com)
-- 💼 LinkedIn: [linkedin.com/in/parsaabbasian](https://linkedin.com/in/parsaabbasian)
-- 📧 Personal: [parsa.abbasian.06@gmail.com](mailto:parsa.abbasian.06@gmail.com)
-- 🎓 York University: [parsa06@my.yorku.ca](mailto:parsa06@my.yorku.ca)
-- 📊 Kaggle: [kaggle.com/parsaabbasian](https://kaggle.com/parsaabbasian)
-- 🐙 GitHub: [github.com/parsaabbasian](https://github.com/parsaabbasian)
+- First Class Standing with Distinction
+- Dean's List
+- Undergraduate AI Researcher at EXINES Lab
+- Operations Lead at GDG on Campus York University
+
+## Contact
+
+<div align="center">
+
+[Portfolio](https://parsaabbasian.com) •
+[LinkedIn](https://linkedin.com/in/parsaabbasian) •
+[Kaggle](https://kaggle.com/parsaabbasian) •
+[GitHub](https://github.com/parsaabbasian) •
+[Email](mailto:parsa.abbasian.06@gmail.com)
+
+</div>
