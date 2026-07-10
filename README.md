@@ -1,188 +1,42 @@
-<div align="center">
+# Hi there, I'm Parsa Abbasian 👋[cite: 1]
 
-<img src="./assets/banner.svg" alt="Parsa Abbasian banner" width="100%">
+### AI Application Engineer | Undergraduate Researcher | B.Eng. Computer Engineering @ York University[cite: 1]
 
-<br>
+I am a Computer Engineering student at York University's Lassonde School of Engineering, maintaining a First Class Standing With Distinction[cite: 1]. I am passionate about building full-stack applications, artificial intelligence, and autonomous agents[cite: 1].
 
-<a href="https://parsaabbasian.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio">
-</a>
-<a href="https://linkedin.com/in/parsaabbasian">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:parsa.abbasian.06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://kaggle.com/parsaabbasian">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-</a>
+---
 
-</div>
+## 🔭 Current Focus
 
-## About
+* **AI Application Engineering:** Building full-stack Next.js applications for AI-driven video synthesis, integrating Gemini Veo and ElevenLabs at Diamond AI[cite: 1].
+* **AI Coding Agents Research:** Developing SWE-bench multimodal evaluation pipelines and Dockerized sandboxes at the EXINES Lab[cite: 1].
+* **Geodetic Data & ML:** Engineering automated Python pipelines and ML regression models to quantify infrastructure deformation at the Space Geodesy Lab[cite: 1].
+* **Community Leadership:** Serving as the Operations Lead for Google Developer Groups (GDG) on Campus at York University, driving logistics and partnerships for technical events[cite: 1].
 
-I am a Computer Engineering student at York University, an undergraduate AI researcher at EXINES Lab, and a full-stack developer focused on AI-powered products.
+---
 
-My work spans LLM evaluation, coding agents, satellite imagery, real-time systems, and developer tools. I also serve as Operations Lead at GDG on Campus York University.
+## 🚀 Featured Projects
 
-## Current Focus
+* **Real-time Obstacle Detector (ROD)** 
+  Built an obstacle detection system achieving 89% mAP using Python, YOLOv8, OpenCV, and CNNs[cite: 1]. Optimized for edge deployment on a Raspberry Pi 4, sustaining 28 FPS with integrated spatial depth estimation[cite: 1].
+* **UniSpot** 
+  Architected a real-time campus activity platform using Go, React, PostgreSQL, and Supabase[cite: 1]. Engineered a sub-second synchronization pipeline (<1s) using Gorilla WebSockets[cite: 1].
+* **Undercut** 
+  Developed a full-stack used-car aggregator with a concurrent Go scraper[cite: 1]. Integrated Gemini 1.5 Flash for multi-modal listing analysis to auto-flag salvage titles and odometer anomalies[cite: 1].
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### Research
+## 💻 Tech Stack
 
-- SWE-bench evaluation pipelines
-- LLM coding agents
-- AI reliability and benchmarking
-- Reproducing research papers
+* **Languages:** Python, Go (Golang), C++, Java, JavaScript, MATLAB, Bash, HTML/CSS, LaTeX[cite: 1]
+* **AI / ML:** PyTorch, OpenCV, YOLOv8, scikit-learn, Gemini API, SWE-bench[cite: 1]
+* **Backend & Data:** PostgreSQL, MySQL, Docker, FastAPI, Flask, Supabase, WebSockets[cite: 1]
+* **Frontend & Tools:** React.js, TypeScript, Next.js, Vue.js, Framer Motion, Wix Headless SDK, Vite, Git, GitHub, Vercel, Render, Linux, Arduino, Figma[cite: 1]
 
-</td>
-<td width="50%" valign="top">
+---
 
-### Engineering
+## 📫 Connect with Me
 
-- AI video generation workflows
-- Real-time web platforms
-- Geospatial applications
-- Backend systems in Go and Python
-
-</td>
-</tr>
-</table>
-
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### UniSpot
-
-Real-time event discovery with GPS verification.
-
-React • Go • PostgreSQL • Mapbox
-
-</td>
-<td width="50%" valign="top">
-
-### Undercut
-
-AI platform for finding undervalued cars.
-
-Next.js • FastAPI • Go • Gemini
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### LassondeHub
-
-Engineering notes, formulas, and student resources.
-
-React • Supabase
-
-</td>
-<td width="50%" valign="top">
-
-### AlgoDrift
-
-Interactive algorithms and data structures visualizer.
-
-HTML • CSS • JavaScript
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### HawkEye
-
-Object detection web app built during a 48-hour hackathon.
-
-Python • OpenCV
-
-</td>
-<td width="50%" valign="top">
-
-### MBH & Co.
-
-Business growth platform with a modern web stack.
-
-React 19 • TypeScript • Wix Headless
-
-</td>
-</tr>
-</table>
-
-More work is available at [parsaabbasian.com](https://parsaabbasian.com).
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,cpp,rust,html,css" alt="Languages">
-</p>
-
-### AI and Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,supabase" alt="AI and data tools">
-</p>
-
-YOLOv8 • Gemini API • SWE-bench • GNSS Data Processing • PostGIS
-
-### Web and Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,docker" alt="Web and backend tools">
-</p>
-
-Framer Motion • Mapbox • WebSockets • Wix Headless SDK
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" alt="Development tools">
-</p>
-
-Render • GitHub Actions
-
-## Currently Learning
-
-- Advanced data structures and algorithms
-- Go, Rust, and modern C++
-- Deep learning and MLOps
-- Cloud AI infrastructure
-- Research replication and evaluation
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=parsaabbasian&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=parsaabbasian&theme=transparent&hide_border=true" height="165" alt="GitHub streak">
-
-</div>
-
-## Recognition
-
-- First Class Standing with Distinction
-- Dean's List
-- Undergraduate AI Researcher at EXINES Lab
-- Operations Lead at GDG on Campus York University
-
-## Contact
-
-<div align="center">
-
-[Portfolio](https://parsaabbasian.com) •
-[LinkedIn](https://linkedin.com/in/parsaabbasian) •
-[Kaggle](https://kaggle.com/parsaabbasian) •
-[GitHub](https://github.com/parsaabbasian) •
-[Email](mailto:parsa.abbasian.06@gmail.com)
-
-</div>
+* **Email:** parsa06@my.yorku.ca[cite: 1]
+* **Portfolio:** [parsaabbasian.com](https://parsaabbasian.com)[cite: 1]
+* **LinkedIn:** [parsaabbasian](https://linkedin.com/in/parsaabbasian)[cite: 1]
