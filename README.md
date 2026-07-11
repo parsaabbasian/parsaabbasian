@@ -1,3 +1,19 @@
+<pre>
+██████╗  █████╗ ██████╗ ███████╗ █████╗                      
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗                     
+██████╔╝███████║██████╔╝███████╗███████║                     
+██╔═══╝ ██╔══██║██╔══██╗╚════██║██╔══██║                     
+██║     ██║  ██║██║  ██║███████║██║  ██║                     
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                     
+                                                             
+ █████╗ ██████╗ ██████╗  █████╗ ███████╗██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║██╔══██╗████╗  ██║
+███████║██████╔╝██████╔╝███████║███████╗██║███████║██╔██╗ ██║
+██╔══██║██╔══██╗██╔══██╗██╔══██║╚════██║██║██╔══██║██║╚██╗██║
+██║  ██║██████╔╝██████╔╝██║  ██║███████║██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+</pre>
+
 # Hi there, I'm Parsa Abbasian 👋
 
 ### AI Application Engineer | Undergraduate Researcher | B.Eng. Computer Engineering @ York University
@@ -17,11 +33,11 @@ I am a Computer Engineering student at York University's Lassonde School of Engi
 
 ## 🚀 Featured Projects
 
-* **Real-time Obstacle Detector (ROD)** 
+* **Real-time Obstacle Detector (ROD)**  
   Built an obstacle detection system achieving 89% mAP using Python, YOLOv8, OpenCV, and CNNs. Optimized for edge deployment on a Raspberry Pi 4, sustaining 28 FPS with integrated spatial depth estimation.
-* **UniSpot** 
+* **UniSpot**  
   Architected a full-stack real-time campus activity platform designed for live event tracking and location-based mapping. Engineered a sub-second synchronization pipeline (<1s) using Gorilla WebSockets and PostgreSQL NOTIFY/LISTEN.
-* **Undercut** 
+* **Undercut**  
   Developed a full-stack used-car aggregator with a concurrent Go scraper. Integrated Gemini 1.5 Flash for multi-modal listing analysis to auto-flag salvage titles and odometer anomalies.
 
 ---
