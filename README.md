@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://parsaabbasian.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+student+%40+York+University+%F0%9F%8E%93;Full-stack+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+React;Exploring+CPU+pipelines+with+RISC-V+%E2%9A%99%EF%B8%8F;Shipping+iOS+apps+in+Swift+%F0%9F%93%B1" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+student+%40+York+University+%F0%9F%8E%93;Full-stack+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+React;Exploring+CPU+pipelines+with+RISC-V+%E2%9A%99%EF%B8%8F;Shipping+iOS+apps+in+Swift+%F0%9F%93%B1" alt="Typing intro" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 ```ts
 const parsa = {
   location: "Toronto, Canada 🇨🇦",
-  studying: "Computer Science @ York University",
+  studying: "Computer Engineering @ York University",
   currentlyBuilding: ["riscv-pipeline-lab", "Nuro", "UniSpot"],
   interests: ["Computer architecture", "AI tooling", "Web performance", "iOS"],
 };
