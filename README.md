@@ -1,38 +1,87 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Parsa%20Abbasian&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20from%20silicon%20to%20the%20browser&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-# Hi, I'm Parsa 👋
+<a href="https://parsaabbasian.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+student+%40+York+University+%F0%9F%8E%93;Full-stack+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+React;Exploring+CPU+pipelines+with+RISC-V+%E2%9A%99%EF%B8%8F;Shipping+iOS+apps+in+Swift+%F0%9F%93%B1" alt="Typing intro" />
+</a>
 
-**Software developer · Computer Science @ York University · Toronto**
+<br/>
 
-[![Website](https://img.shields.io/badge/parsaabbasian.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parsaabbasian.com/)
-[![GitHub followers](https://img.shields.io/github/followers/parsaabbasian?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/parsaabbasian)
+<a href="https://parsaabbasian.com"><img src="https://img.shields.io/badge/Website-parsaabbasian.com-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ParsaAbbasian"><img src="https://img.shields.io/badge/LinkedIn-ParsaAbbasian-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=parsaabbasian&style=flat-square&color=1f6feb&label=Profile+views" />
 
 </div>
 
----
+```ts
+const parsa = {
+  location: "Toronto, Canada 🇨🇦",
+  studying: "Computer Science @ York University",
+  currentlyBuilding: ["riscv-pipeline-lab", "Nuro", "UniSpot"],
+  interests: ["Computer architecture", "AI tooling", "Web performance", "iOS"],
+};
+```
 
-### 🛠️ Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,swift,cpp,python,git,vercel,cloudflare,vscode&perline=8" />
-</p>
-
-### 🚀 Featured projects
-
-| Project | Stack |
-|---|---|
-| [**riscv-pipeline-lab**](https://github.com/parsaabbasian/riscv-pipeline-lab) | TypeScript |
-| [**Nuro**](https://github.com/parsaabbasian/Nuro) | TypeScript |
-| [**UniSpot**](https://github.com/parsaabbasian/UniSpot) | TypeScript |
-| [**Video_Generator**](https://github.com/parsaabbasian/Video_Generator) | TypeScript |
-| [**Telegram-Notes-iOS**](https://github.com/parsaabbasian/Telegram-Notes-iOS) | Swift |
-
-### 📊 GitHub metrics
+## 🧰 Toolbox
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Parsa's GitHub metrics" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,swift,cpp,python&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,figma,vscode,linux&theme=dark" />
 </p>
 
----
+## 🚀 Featured work
 
-<p align="center"><sub>Metrics refresh daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [riscv-pipeline-lab](https://github.com/parsaabbasian/riscv-pipeline-lab)
+Interactive RISC‑V pipeline lab: watch instructions flow through each stage, hazards and all.
+
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Nuro](https://github.com/parsaabbasian/Nuro)
+An AI-powered app built end to end in TypeScript.
+
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📍 [UniSpot](https://github.com/parsaabbasian/UniSpot)
+Helping students find their spot on campus.
+
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Telegram-Notes-iOS](https://github.com/parsaabbasian/Telegram-Notes-iOS)
+Notes, powered by Telegram, native on iOS.
+
+`Swift`
+
+</td>
+</tr>
+</table>
+
+## 📊 In numbers
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parsaabbasian/parsaabbasian/output/snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/parsaabbasian/parsaabbasian/output/snake-light.svg" width="100%" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
