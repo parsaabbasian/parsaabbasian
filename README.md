@@ -74,10 +74,6 @@ Notes, powered by Telegram, native on iOS.
 ## 📊 In numbers
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parsaabbasian/parsaabbasian/output/snake-dark.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/parsaabbasian/parsaabbasian/output/snake-light.svg" width="100%" />
