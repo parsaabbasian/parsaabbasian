@@ -14,7 +14,7 @@
 
 I'm a Computer Engineering student at **York University** in Toronto 🇨🇦. I like working across the whole stack, from **CPU pipelines** at the bottom to **fast web apps** and **native iOS** at the top.
 
-- 🔧 Building **riscv-pipeline-lab**, **Nuro** and **UniSpot**
+- 🔧 Building **Rehearsal** 🏆 hackathon winner
 - 🧠 Interested in computer architecture, AI tooling, web performance and iOS
 - 💬 Ask me about RISC‑V, TypeScript or Swift
 
