@@ -29,6 +29,10 @@ I'm a Computer Engineering student at **York University** in Toronto 🇨🇦. I
 <a href="https://github.com/parsaabbasian/Telegram-Notes-iOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/telegram-notes-ios-dark.svg"/><img src="assets/telegram-notes-ios-light.svg" width="49%" alt="telegram-notes-ios"/></picture></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/parsaabbasian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rehearsal-dark.svg"/><img src="assets/rehearsal-light.svg" width="49%" alt="rehearsal"/></picture></a>
+</p>
+
 ### `> cat stack.txt`
 
 <p align="center">
