@@ -45,4 +45,4 @@ I'm a Computer Engineering student at **York University** in Toronto 🇨🇦. I
   </picture>
 </p>
 
-<p align="center"><sub>silicon → browser · <a href="https://parsaabbasian.com">parsaabbasian.com</a></sub></p>
+<p align="center"><sub><a href="https://parsaabbasian.com">parsaabbasian.com</a></sub></p>
