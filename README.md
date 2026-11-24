@@ -21,16 +21,7 @@ I'm a Computer Engineering student at **York University** in Toronto 🇨🇦. I
 ### `> ls ~/projects --featured`
 
 <p align="center">
-<a href="https://github.com/parsaabbasian/riscv-pipeline-lab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/riscv-pipeline-lab-dark.svg"/><img src="assets/riscv-pipeline-lab-light.svg" width="49%" alt="riscv-pipeline-lab"/></picture></a>
-<a href="https://github.com/parsaabbasian/Nuro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nuro-dark.svg"/><img src="assets/nuro-light.svg" width="49%" alt="nuro"/></picture></a>
-</p>
-<p align="center">
-<a href="https://github.com/parsaabbasian/UniSpot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/unispot-dark.svg"/><img src="assets/unispot-light.svg" width="49%" alt="unispot"/></picture></a>
-<a href="https://github.com/parsaabbasian/Telegram-Notes-iOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/telegram-notes-ios-dark.svg"/><img src="assets/telegram-notes-ios-light.svg" width="49%" alt="telegram-notes-ios"/></picture></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/parsaabbasian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rehearsal-dark.svg"/><img src="assets/rehearsal-light.svg" width="49%" alt="rehearsal"/></picture></a>
+<a href="https://github.com/parsaabbasian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rehearsal-dark.svg"/><img src="assets/rehearsal-light.svg" width="60%" alt="Rehearsal — hackathon winner"/></picture></a>
 </p>
 
 ### `> cat stack.txt`
