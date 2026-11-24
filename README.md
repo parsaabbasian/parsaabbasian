@@ -32,7 +32,7 @@ I'm a Computer Engineering student at **York University** in Toronto 🇨🇦. I
   <sub><b>FRONTEND · BACKEND · DATA</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,supabase,postgres,firebase&theme=dark" /><br/><br/>
   <sub><b>TOOLS · CLOUD · AI</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,opencv,figma,vscode&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,aws,vercel,opencv,figma,vscode&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/Mapbox-0d1117?style=for-the-badge&logo=mapbox&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/SurrealDB-0d1117?style=for-the-badge&logo=surrealdb&logoColor=FF00A0" /> <img src="https://img.shields.io/badge/Clerk-0d1117?style=for-the-badge&logo=clerk&logoColor=6C47FF" /> <img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_AI-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
 </p>
 
