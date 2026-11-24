@@ -14,21 +14,26 @@
 
 I'm a Computer Engineering student at **York University** in Toronto 🇨🇦. I like working across the whole stack, from **CPU pipelines** at the bottom to **fast web apps** and **native iOS** at the top.
 
-- 🔧 Building **Rehearsal** 🏆 hackathon winner
+- 🔧 Built **Rehearsal** 🏆 1st Runner Up & Best Use of Clerk at Build North
 - 🧠 Interested in computer architecture, AI tooling, web performance and iOS
 - 💬 Ask me about RISC‑V, TypeScript or Swift
 
 ### `> ls ~/projects --featured`
 
 <p align="center">
-<a href="https://github.com/parsaabbasian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rehearsal-dark.svg"/><img src="assets/rehearsal-light.svg" width="60%" alt="Rehearsal — hackathon winner"/></picture></a>
+<a href="https://parsaabbasian.com/projects/rehearsal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rehearsal-dark.svg"/><img src="assets/rehearsal-light.svg" width="60%" alt="Rehearsal — 1st Runner Up, Build North"/></picture></a>
 </p>
 
 ### `> cat stack.txt`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,swift,cpp,python&perline=9&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,figma,vscode,linux&perline=9&theme=dark" />
+  <sub><b>LANGUAGES</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp,swift,html,css,matlab&theme=dark" /><br/><br/>
+  <sub><b>FRONTEND · BACKEND · DATA</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,supabase,postgres,firebase&theme=dark" /><br/><br/>
+  <sub><b>TOOLS · CLOUD · AI</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,opencv,figma,vscode&theme=dark" /><br/><br/>
+  <img src="https://img.shields.io/badge/Mapbox-0d1117?style=for-the-badge&logo=mapbox&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/SurrealDB-0d1117?style=for-the-badge&logo=surrealdb&logoColor=FF00A0" /> <img src="https://img.shields.io/badge/Clerk-0d1117?style=for-the-badge&logo=clerk&logoColor=6C47FF" /> <img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_AI-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
 </p>
 
 ### `> git log --graph`
